@@ -1,0 +1,36 @@
+{
+  "teamName": "NoName",
+  "members": [
+    {
+      "name": "Alejandro Díaz",
+      "twitter": "delharas",
+      "koding": "alejodiazg",
+      "location": "Caracas, VE"
+    },
+    {
+      "name": "Gustavo El Kohury",
+      "twitter": "sent0hil",
+      "koding": "sent-hil",
+      "location": "Chennai, IN"
+    },
+    {
+      "name": "Gabriela Limonta",
+      "twitter": "sinanyasar",
+      "koding": "sinan",
+      "location": "San Francsico, US",
+      "lead": true
+    },
+    {
+      "name": "name",
+      "twitter": "devrimyasar",
+      "koding": "devrim",
+      "location": "San Francsico, US"
+    },
+    {
+      "name": "name",
+      "twitter": "gniting",
+      "koding": "nitin",
+      "location": "Turin, IT"
+    }
+  ]
+}
